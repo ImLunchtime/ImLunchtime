@@ -1,8 +1,14 @@
 ## ImLunchtime
-A middle school student intrested in coding and music.
+A middle school student.
+
+## I like
+- Music
+- Minecraft
+- M5Stack devices
 
 ## I am learning
 - C/C++
+- ESP-IDF
 - Python
 - Java
 - Android
