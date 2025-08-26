@@ -17,3 +17,6 @@ A middle school student.
 Tab5_Launcher: https://github.com/ImLunchtime/Tab5_Launcher
 
 EEZ Flow port for M5Stack Tab5: https://github.com/ImLunchtime/tab5_eezstudio_template
+
+## A Fun Fact
+All of my projects are 99% written by LLM (Mostly Claude-4.0-sonnet).
